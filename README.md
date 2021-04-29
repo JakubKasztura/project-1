@@ -1,2 +1,2 @@
-# project-1
+# Github tests
 Basic Github tests
