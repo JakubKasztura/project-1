@@ -1,2 +1,2 @@
 # project-1
-Basic first project
+Basic Github tests
